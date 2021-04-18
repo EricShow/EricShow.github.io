@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>MarkDown模板</title>
+      <link href="2021/04/18/%E6%A8%A1%E6%9D%BF/"/>
+      <url>2021/04/18/%E6%A8%A1%E6%9D%BF/</url>
+      
+        <content type="html"><![CDATA[<p>###自动索引<br> [TOC]</p><p>###特征标签<br> @(示例)[马克飞象|帮助|Markdown]</p><p>###粗体<br> <strong>马克飞象</strong></p><p>###突出<br><code>Ctrl + /</code> </p><p>###列表</p><ul><li>第一项</li><li>第二项</li></ul><p>###引用</p><blockquote><p>三人行必有吾师。    —— <a href="http://baike.baidu.com/">孔子</a></p></blockquote><p><a href="http://www.example.com/">链接名</a>或一个脚注[^demo]。</p><p>###代码</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> emp = &#123;<span class="attr">name</span>:<span class="string">&quot;Frank&quot;</span>, <span class="attr">age</span>:<span class="number">45</span> &#125;;</span><br></pre></td></tr></table></figure><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">代码内容</span><br></pre></td></tr></table></figure><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">代码内容</span><br></pre></td></tr></table></figure><h3 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h3><table><thead><tr><th align="left">Item</th><th align="right">价格</th><th align="center">数量</th></tr></thead><tbody><tr><td align="left">Computer</td><td align="right">5600</td><td align="center">5</td></tr><tr><td align="left">Phone</td><td align="right">120</td><td align="center">12</td></tr><tr><td align="left">Pipe</td><td align="right">10</td><td align="center">234</td></tr></tbody></table><p>###流程图</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">st&#x3D;&gt;start: 开始</span><br><span class="line">e&#x3D;&gt;end: 结束</span><br><span class="line">op1&#x3D;&gt;operation: 准备数据</span><br><span class="line">op2&#x3D;&gt;operation: 计算处理</span><br><span class="line">cond1&#x3D;&gt;condition: 是否正确?</span><br><span class="line"></span><br><span class="line">st-&gt;op1-&gt;op2-&gt;cond1</span><br><span class="line">cond1(yes)-&gt;e</span><br><span class="line">cond1(no)-&gt;op1</span><br></pre></td></tr></table></figure><p>###以及时序图:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">客户端-&gt;服务端: 给我姓名叫张三的员工信息</span><br><span class="line">Note right of 服务端: 服务端响应</span><br><span class="line">服务端--&gt;客户端: 给你张三的信息</span><br></pre></td></tr></table></figure><h3 id="LaTeX-公式"><a href="#LaTeX-公式" class="headerlink" title="LaTeX 公式"></a>LaTeX 公式</h3><p>可以创建行内公式，例如 $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$。或者块级公式：</p><p>$$    x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Leetcode_1</title>
       <link href="2021/04/18/%E5%8A%9B%E6%89%A31/"/>
       <url>2021/04/18/%E5%8A%9B%E6%89%A31/</url>
