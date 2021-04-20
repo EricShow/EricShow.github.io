@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="2021/04/20/%E5%8A%9B%E6%89%A34_20/"/>
+      <url>2021/04/20/%E5%8A%9B%E6%89%A34_20/</url>
+      
+        <content type="html"><![CDATA[<p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420210544050.png" alt="image-20210420210544050"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420213244268.png" alt="image-20210420213244268"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420215537476.png" alt="image-20210420215537476"><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420215546345.png" alt="image-20210420215546345"><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420215552318.png" alt="image-20210420215552318"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420220242267.png" alt="image-20210420220242267"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420220300826.png" alt="image-20210420220300826"><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420221221543.png" alt="image-20210420221221543"><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420221233055.png" alt="image-20210420221233055"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420224145201.png" alt="image-20210420224145201"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420224410014.png" alt="image-20210420224410014"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420225107257.png" alt="image-20210420225107257"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420225139920.png" alt="image-20210420225139920"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420225622222.png" alt="image-20210420225622222"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420225653513.png" alt="image-20210420225653513"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420231400187.png" alt="image-20210420231400187"></p><p>![image-20210420231422302](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420231422302.png</p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420231643170.png" alt="image-20210420231643170"></p><p>思路：遍历所有位置，每次更新最远位置</p><p>当位置index遍历到当前能到达的最远位置时，说明这个阶段（0-i即0-end）能到达的最原位置就是maxPosition，这时就更新end为maxPosition，steps++，只需通过一步就能到达这个位置i</p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420233306638.png" alt="image-20210420233306638"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420233336307.png" alt="image-20210420233336307"></p><p>思路：旋转==水平翻转+对角线翻转</p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420233220289.png" alt="image-20210420233220289"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420234118148.png" alt="image-20210420234118148"></p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210420234101599.png" alt="image-20210420234101599"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Leetcode_1</title>
       <link href="2021/04/18/%E5%8A%9B%E6%89%A31/"/>
       <url>2021/04/18/%E5%8A%9B%E6%89%A31/</url>
